@@ -104,4 +104,4 @@ harbor run -p "./fixed_service_recovery" -a terminus-2 --model groq/moonshotai/k
 
 ---
 
-**Developer**: Antigravity (Powered by Advanced Agentic Coding)
+**Developer**: ----- (Powered by Advanced Agentic Coding)
