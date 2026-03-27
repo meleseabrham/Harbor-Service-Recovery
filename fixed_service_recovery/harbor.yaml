@@ -1,0 +1,4 @@
+tasks:
+  - name: run_api_tests
+    type: shell
+    entrypoint: bash solve.sh

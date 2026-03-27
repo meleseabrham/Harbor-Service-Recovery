@@ -1,0 +1,10 @@
+version = "1.0"
+
+[task]
+name = "fixed_service_recovery"
+
+[environment]
+dockerfile = "environment/Dockerfile"
+
+[environment.runtime]
+python = "3.12"

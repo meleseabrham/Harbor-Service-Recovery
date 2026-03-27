@@ -1,0 +1,9 @@
+tests/
+solution/
+.git
+.venv
+venv
+server.log
+uvicorn_log.txt
+.env
+jobs/
