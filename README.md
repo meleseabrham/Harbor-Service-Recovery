@@ -92,7 +92,7 @@ bash solution/solve.sh
 | Agent | Model | Success Rate (Mean) |
 | :--- | :--- | :--- |
 | **Oracle** | Bash (Golden Solution) | ✅ **1.000** |
-| **Terminus-2** | Kimi-K2-Instruct-0905 | 🛠️ **0.000** (First Trial) |
+| **Terminus-2** | Kimi-K2-Instruct-0905 | 🛠️ **0.2** (First Trial) |
 
 ---
 
